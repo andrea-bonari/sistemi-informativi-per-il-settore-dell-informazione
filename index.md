@@ -11,3 +11,5 @@ Il corso introduce i sistemi informativi, il concetto di informazione e i suoi l
 		3. [[Livello architettura]]
 		4. [[Sicurezza dei sistemi informativi]]
 	3. [[Progettazione dei sistemi informativi]]
+
+$$$$

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi informativi/Aspetti tecnologici/Sicurezza dei sistemi informativi.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sicurezza dei sistemi informativi"
+              "title": "index"
             }
           }
         ]
@@ -170,10 +170,10 @@
   },
   "active": "1349fa04753e42b3",
   "lastOpenFiles": [
-    "index.md",
-    "Sistemi informativi/Progettazione dei sistemi informativi.md",
     "Sistemi informativi/Sistemi informativi.md",
+    "index.md",
     "Sistemi informativi/Aspetti tecnologici/Sicurezza dei sistemi informativi.md",
+    "Sistemi informativi/Progettazione dei sistemi informativi.md",
     "data/Pasted image 20251211130644.png",
     "Sistemi informativi/Aspetti tecnologici/Livello piattaforma.md",
     "Sistemi informativi/Aspetti tecnologici/Livello architettura.md",
