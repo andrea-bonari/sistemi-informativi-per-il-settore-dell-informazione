@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "334d747b78a400a4",
+        "id": "017cb38ba6b79dff",
         "type": "tabs",
         "children": [
           {
-            "id": "467e155ffa9219f8",
+            "id": "1349fa04753e42b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi informativi/Sistemi informativi.md",
+                "file": "Sistemi informativi/Aspetti tecnologici/Sicurezza dei sistemi informativi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistemi informativi"
+              "title": "Sicurezza dei sistemi informativi"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "criterio della matrice hessiana",
+                "query": "conform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Curve in uno spazio n-dimensionale"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -155,33 +155,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "467e155ffa9219f8",
+  "active": "1349fa04753e42b3",
   "lastOpenFiles": [
     "index.md",
+    "Sistemi informativi/Progettazione dei sistemi informativi.md",
     "Sistemi informativi/Sistemi informativi.md",
+    "Sistemi informativi/Aspetti tecnologici/Sicurezza dei sistemi informativi.md",
+    "data/Pasted image 20251211130644.png",
+    "Sistemi informativi/Aspetti tecnologici/Livello piattaforma.md",
+    "Sistemi informativi/Aspetti tecnologici/Livello architettura.md",
+    "Sistemi informativi/Aspetti tecnologici/Livello applicativo.md",
+    "data/Pasted image 20251111164836.png",
+    "data/Pasted image 20251111164816.png",
+    "data/Pasted image 20251111164718.png",
+    "data/Pasted image 20251111164704.png",
+    "data/Pasted image 20251111163347.png",
+    "data/Pasted image 20251111163330.png",
+    "Sistemi informativi/Enterprise Modelling/BPMN.md",
+    "data/Pasted image 20251111120558.png",
+    "data/Pasted image 20251111120538.png",
+    "data/Pasted image 20251111120455.png",
     "Introduzione al corso.md",
-    "temp/09-15.md",
-    "data/Pasted image 20250915144723.png",
-    "data/Pasted image 20250915115547.png",
-    "data/Pasted image 20250915102721.png",
-    "data/Pasted image 20250915102309.png",
-    "data",
+    "Sistemi informativi/Enterprise Modelling/Archimate.md",
+    "Sistemi informativi/Aspetti tecnologici/Elementi tecnologici.md",
+    "File i.md",
+    "Sistemi informativi/Enterprise Architecture.md",
+    "old/Sistemi informativi/Sistemi informativi.md",
+    "old/Sistemi informativi/Archimate.md",
+    "Enterprise Modelling/Untitled",
+    "old",
+    "Progettazione",
+    "Sistemi informativi/Aspetti tecnologici",
+    "Sistemi informativi/Enterprise Modelling",
     "Sistemi informativi",
-    "temp/To Rework.base",
-    "Untitled.md",
-    "temp",
+    "data/Recording 20250918151108.m4a",
+    "temp/09-18.md",
+    "data/Recording 20250918133600.m4a",
+    "temp/09-15.md",
+    "data",
+    "old/Sistemi informativi",
     "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
     "Dimostrazioni.md",
@@ -189,30 +214,6 @@
     "Funzioni a più variabili/Calcolo differenziale/Derivata seconda per funzioni a due variabili.md",
     "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari.md",
     "Spazio n-dimensionale/Parametrizzazione del sostegno di una curva.md",
-    "Spazio n-dimensionale/Sottoinsiemi di uno spazio n-dimensionale.md",
-    "Spazio n-dimensionale/Spazio n-dimensionale.md",
-    "Spazio n-dimensionale/Funzioni a più variabili.md",
-    "Spazio n-dimensionale/Integrale curvilinea.md",
-    "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
-    "Serie di funzioni/Serie di funzioni trigonometriche.md",
-    "Serie di funzioni/Serie di potenze reali.md",
-    "Serie di funzioni/Serie di funzioni.md",
-    "Equazioni differenziali/EDO del primo ordine/EDO del primo ordine.md",
-    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
-    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
-    "Sistemi differenziali lineari/Sistemi differenziali lineari.md",
-    "Sistemi differenziali lineari/Sistemi differenziali lineari omogenei.md",
-    "data/Pasted image 20241216183056.png",
-    "data/Pasted image 20241216183104.png",
-    "data/Pasted image 20241216183045.png",
-    "data/Pasted image 20241216183035.png",
-    "data/Pasted image 20241216183015.png",
-    "data/Pasted image 20241216182939.png",
-    "Equazioni differenziali/Studio qualitativo",
-    "Funzioni a più variabili/Calcolo integrale",
-    "Funzioni a più variabili/Ottimizzazione",
-    "Funzioni a più variabili/Calcolo differenziale",
-    "Funzioni a più variabili",
-    "Serie di funzioni"
+    "Spazio n-dimensionale/Sottoinsiemi di uno spazio n-dimensionale.md"
   ]
 }

@@ -1,4 +1,13 @@
 Il corso introduce i sistemi informativi, il concetto di informazione e i suoi livelli, spiegando il ruolo del sistema informativo nelle organizzazioni. Si approfondisce l'Enterprise Architecture con il framework di Zachman e le fasi del ciclo di vita di un SI, dalla pianificazione alla gestione, includendo lo studio di fattibilità e le scelte make or buy. Viene presentata la modellazione dei sistemi con Archimate e BPMN per descrivere processi aziendali e flussi informativi. Si analizzano i componenti tecnologici e applicativi, distinguendo OLTP e OLAP, e gli applicativi ERP e CRM a supporto delle attività operative. La parte dedicata ai dati copre data warehouse, modelli multidimensionali, architetture, operatori OLAP e introduzione al data mining con i principali algoritmi. Si esaminano le scelte infrastrutturali per i SI, l'integrazione di applicazioni, dati e processi, le architetture distribuite e il cloud computing. Infine, si affronta la sicurezza dei sistemi informativi, introducendo crittografia simmetrica e asimmetrica, firma digitale, gestione utenti, controllo accessi, firewall e IDS.
 
 1. [[Introduzione al corso]]
-2. [[Sistemi informativi]]
+2. [[Sistemi informativi|Sistemi informativi]]
+	1. [[Enterprise Architecture]]
+		1. [[Archimate]]
+		2. [[BPMN]]
+	2. [[Elementi tecnologici]]
+		1. [[Livello applicativo]]
+		2. [[Livello piattaforma]]
+		3. [[Livello architettura]]
+		4. [[Sicurezza dei sistemi informativi]]
+	3. [[Progettazione dei sistemi informativi]]

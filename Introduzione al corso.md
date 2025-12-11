@@ -24,7 +24,7 @@ Conoscenza dei fondamenti dell'informatica.
 
 ## Modalità di valutazione
 L'esame prevede una verifica scritta su tutti gli argomenti dell'insegnamento.
-La prova consiste in domande di carattere teorico a risposta aperta sugli argomenti dell’insegnamento e esercizi di tipo progettuale (modellazione di processi di business e modellazione dell'architettura dei sistemi informativi in ArchiMate).
+La prova consiste in domande di carattere teorico a risposta aperta sugli argomenti dell'insegnamento e esercizi di tipo progettuale (modellazione di processi di business e modellazione dell'architettura dei sistemi informativi in ArchiMate).
 Nella prova scritta e' necessario rispondere a ogni domanda, almeno parzialmente, per superare l'esame. Non sono previste le prove in itinere. La parte di teoria potrà essere svolta anche oralmente esclusivamente su richiesta del docente. 
 
 Lo studente dovrà, in sede di esame:  
