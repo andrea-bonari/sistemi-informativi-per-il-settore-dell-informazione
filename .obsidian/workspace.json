@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sistemi informativi/Aspetti tecnologici/Livello piattaforma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Livello piattaforma"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "1349fa04753e42b3",
   "lastOpenFiles": [
+    "Sistemi informativi/Aspetti tecnologici/Livello applicativo.md",
     "Sistemi informativi/Sistemi informativi.md",
     "index.md",
     "Sistemi informativi/Aspetti tecnologici/Sicurezza dei sistemi informativi.md",
@@ -177,7 +178,6 @@
     "data/Pasted image 20251211130644.png",
     "Sistemi informativi/Aspetti tecnologici/Livello piattaforma.md",
     "Sistemi informativi/Aspetti tecnologici/Livello architettura.md",
-    "Sistemi informativi/Aspetti tecnologici/Livello applicativo.md",
     "data/Pasted image 20251111164836.png",
     "data/Pasted image 20251111164816.png",
     "data/Pasted image 20251111164718.png",
